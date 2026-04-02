@@ -28,5 +28,5 @@ This dashboard provides insights into ride volume, booking status, revenue by pa
 - Supports operational and strategic decisions  
 
 ---
-**Author:** Your Name  
+**Author:** Khush Chawda 
 Aspiring Data Analyst | Business Intelligence Enthusiast
